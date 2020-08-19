@@ -7,18 +7,13 @@ This Application can manage transaction of blood bags in blood bank.
   
 Develop a system that can manage transaction of blood bags in blood bank.
   
-• __Dataset__:
- 
- http://www.fki.inf.unibe.ch/databases/iam-handwriting-database/iam-handwriting-database/
- 
- From IAM handwriting dataset used following
- 1. Form.txt
- 2. Sentence (Directory containg Images)
+
  
 • __Dependencies__:
   1. PHP <br />
   2. HTML <br />
   3. CSS <br />
+  4. SQLITE3 <BR />
   
 __Using this application following tasks can be performed__ : <br />
   	1. Insert Details of new blood bag. <br />
