@@ -24,6 +24,7 @@ __Using this application following tasks can be performed__ : <br />
   	1. Insert Details of new blood bag. <br />
   	2. Save issue Details of blood bag. <br />
   	3. Update or Delete details of any blood bag. <br />
+    4. See and print details of every blood bag in system. Categorized as Available Stock, Issued Bags, All Bags and Expired Bags 
   	4. Get details of monthly transaction of blood bags. <br />
   	5. See details of blood bags which are near expiry. <br />
   	6. Also this application contains different section called Others, so that blood bags which are of the records can be managed. <br />
