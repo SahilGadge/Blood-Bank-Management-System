@@ -33,7 +33,7 @@ __Screenshot__:<br />
   <br />
   **Create - Insert Bag Details**
     <br />
-  ![insertBag](https://user-images.githubusercontent.com/36062668/90625054-a0ac9e00-e236-11ea-92ff-bf6c095365d0.png)
+  ![ISSUE2](https://user-images.githubusercontent.com/36062668/90629988-e15be580-e23d-11ea-827e-d703ddf7573d.png)
   <br />
   **Issue Bag Details**
     <br />
