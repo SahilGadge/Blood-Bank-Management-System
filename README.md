@@ -20,7 +20,7 @@ Develop a system that can manage transaction of blood bags in blood bank.
   2. HTML <br />
   3. CSS <br />
   
-__Using this application following tasks can be performed__ :
+__Using this application following tasks can be performed__ : <br />
   	1. Insert Details of new blood bag. <br />
   	2. Save issue Details of blood bag. <br />
   	3. Update or Delete details of any blood bag. <br />
